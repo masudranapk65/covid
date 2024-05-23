@@ -1,0 +1,388 @@
+@media(max-width: 991px){
+    .nav_items .md_1299 ul li a {
+        margin: 20px 15px;
+    }
+    .protection_content h1 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .carouse_item_h5 h5 {
+        font-size: 16px;
+        font-weight: 700;
+    } 
+    .carouse_item_p p {
+        font-size: 14px;
+    }
+    .carouse_item_btn button {
+        font-size: 14px;
+    }
+    .protection_carousel .fa-solid, .fas {
+        font-weight: 900;
+        width: 35px;
+        height: 35px;
+        background-color: red;
+        line-height: 35px;
+        border-radius: 50%;
+    }
+    .protection_carousel .owl-nav .owl-prev {
+        left: 45%;
+        transform: translate(-45%);
+        top: 98%;
+    }
+    .protection_carousel .owl-nav .owl-next{
+        right: 45%;
+        transform: translate(-45%);
+        top: 98%;
+    }
+    .protection_carousel .owl-nav .owl-prev span{
+        width: 30px;
+        height: 30px;
+        font-size: 25px;
+        line-height: 25px;
+    }
+    
+    .protection_carousel .owl-nav .owl-next span{
+        width: 30px;
+        height: 30px;
+        font-size: 25px;
+        line-height: 25px;
+    } 
+    .corona_case_item_p p {
+        padding: 0 0 20px 0;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+@media(max-width: 830px){
+.md_830{
+        display: flex;
+    }
+.nav_height{
+        display: none;
+        }
+.sm_575{
+   display: none; 
+    }
+
+.md_830{
+        min-height: 20vh;
+        background-color: #ed242e;
+    }
+.md_830_top_nav{
+    display: flex;
+    justify-content: space-between;
+}
+.md_830_top_nav .nav_item1 a i{
+    color: #fff;
+    margin: 10px 30px;
+}
+
+
+
+
+}
+
+
+@media(max-width: 767px){
+    .empty {
+        height: 90vh;
+    }
+    .simptom_height {
+        min-height: 60vh;
+        align-items: center;
+        background-color: #f3f1f18f;
+        box-shadow: 1px 1px 1px 1px #c3c0c068;
+    }
+    .simptom_img {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .simptom_h1 h1 {
+        font-size: 30px;
+        margin: 40px auto 0px auto;
+        font-weight: 700;
+        width: 80%;
+        text-align: center;
+    }
+    .simptom_p p {
+        margin: 20px auto 30px auto;
+        width: 80%;
+        text-align: center;
+    }
+    .simptom_content .btns button {
+        padding: 5px 15px;
+        margin: 0px auto 40px auto;
+    }
+    .protection_carousel .owl-nav .owl-prev {
+        left: 43%;
+        transform: translate(-43%);
+        top: 98%;
+    }
+    .protection_carousel .owl-nav .owl-next{
+        right: 43%;
+        transform: translate(-43%);
+        top: 98%;
+    }   
+    .corona_case_content_height p {
+        width: 100%;
+    }
+    .corona_case_item_p p {
+        padding: 0 0 30px 0;
+        text-align: justify;
+    }
+    .coroana_case_item_logo img {
+        width: 10%;
+    }
+    .corona_case_item {
+        margin: 30px 10px;
+    }
+    
+    .testimonial_content h1 {
+        margin: 30px auto 90px 0;
+    }
+    .testimonial_item {
+        margin: 20px auto 100px auto;
+    }
+    .input_submit button {
+        width: 30%;
+        padding: 10px 10px;
+    }
+
+}
+
+
+
+
+
+@media(max-width: 575px){
+    .container-fluid{
+        --bs-gutter-x: 0;
+    }
+    .md_830{
+        display: none;
+    }
+    .nav_height{
+        display: none;
+    }
+    .sm_575{
+            display: flex;
+            background-color: #ed242e;
+            min-height: 10vh;;
+     }
+     .carousel_content_1_h1 h1 {
+        font-size: 55px;
+    }
+    .banner_carousel .owl-nav .owl-prev {
+        left: 0%;
+    }
+    .banner_carousel .owl-nav .owl-next{
+       right: 0%;
+    }
+    .banner_hover_img {
+        display: flex;
+        justify-content: center;
+        margin:10px auto;
+        width: 100%;
+        min-height: 50vh;
+    }
+    .banner_hover_img img {
+        min-height: 50vh;
+        width: 90%;
+        margin: auto;
+    }
+    .banner_hover {
+        top: 70%;
+    }
+    .banner_hover_content span::before {
+        width: 15%;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .banner_hover_content p {
+        margin: 15px auto 30px auto;
+    }
+    .banner_hover_content .btns {
+        justify-content: center;
+    }
+    .banner_hover_content .btns button {
+        margin: 10px 0 35px 0;
+    }
+    .empty {
+        height: 90vh;
+    }
+    .simptom_height {
+        min-height: 60vh;
+        align-items: center;
+        background-color: #f3f1f18f;
+        box-shadow: 1px 1px 1px 1px #c3c0c068;
+    }
+    .simptom_img {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .simptom_h1 h1 {
+        font-size: 30px;
+        margin: 40px auto 0px auto;
+        font-weight: 700;
+        width: 80%;
+        text-align: center;
+    }
+    .simptom_p p {
+        margin: 20px auto 30px auto;
+        width: 80%;
+        text-align: center;
+    }
+    .simptom_content .btns button {
+        padding: 5px 15px;
+        margin: 0px auto 40px auto;
+    }
+    .corona_case_item {
+        margin: 30px auto;
+        width: 70%;
+    }
+    .corona_case_content_height h1 {
+        font-size: 30px;
+        width: 80%;
+        margin: 30px auto 0px auto;
+    }
+    .corona_case_content_height p {
+        width: 90%;
+        text-align: justify;
+    }
+     .protection_content h1 {
+        font-size: 25px;
+    }
+    .protection_carousel .fa-solid, .fas {
+        width: 30px;
+        height: 30px;
+        background-color: red;
+        line-height: 30px;
+        border-radius: 50%;
+    }
+     .protection_content p {
+        font-size: 14px;
+        color: #000;
+        margin: 25px 10px;
+        text-align: center;
+    }
+     .carouse_item_h5 h5 {
+        font-size: 16px;
+        font-weight: 700;
+    } 
+    .carouse_item_p p {
+        font-size: 14px;
+    }
+    .carouse_item_btn button {
+        font-size: 14px;
+    }
+    .protection_carousel .owl-nav .owl-prev {
+        left: 41%;
+        transform: translate(-41%);
+        top: 98%;
+    }
+    .protection_carousel .owl-nav .owl-next{
+        right: 41%;
+        transform: translate(-41%);
+        top: 98%;
+    } 
+    .input_submit button {
+        font-size: 14px;
+        width: 35%;
+        padding: 10px 10px;
+    }
+    .contact_1 {
+        margin: 30px 0;
+        text-align: center;
+    }
+    .contact_1.line_3 p {
+        width: 100%;
+        text-align: justify;
+        margin: 0 auto;
+    }
+    .contact_1 p {
+        width: 60%;
+        text-align: justify;
+        margin: 0 auto;
+    }
+    .contact_3_align {
+        width:60%;
+        display: flex;
+        justify-content: space-between;
+        line-height: 50px;
+        margin: 0 auto;
+    } 
+
+    .contact_3_align i {
+        margin: 0 20px;
+        text-align: center;
+    }
+    .contact_4_img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .contact_4_img img {
+        width: 50%;
+    }
+}
+
+
+
+@media(max-width: 425px){
+    .protection_content h1 {
+        font-size: 22px;
+    }   
+
+
+
+}
+
+
+
+@media(max-width: 368px){
+    .protection_carousel .owl-nav .owl-prev {
+        left: 40%;
+        transform: translate(-40%);
+        top: 98%;
+    }
+    .protection_carousel .owl-nav .owl-next{
+        right: 40%;
+        transform: translate(-40%);
+        top: 98%;
+    }
+    .protection_carousel .owl-nav .owl-prev span{
+        width: 20px;
+        height: 20px;
+        font-size: 15px;
+        line-height: 15px;
+    }
+    
+    .protection_carousel .owl-nav .owl-next span{
+        width: 20px;
+        height: 20px;
+        font-size: 15px;
+        line-height: 15px;
+    } 
+    .protection_content h1 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .protection_content p{
+        font-size: 14px;
+        margin: 20px 10px;
+    }
+    .protection_items {
+        min-height: 60vh;
+    }
+    
+}
